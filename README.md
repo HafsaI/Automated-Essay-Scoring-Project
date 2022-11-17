@@ -1,1 +1,1 @@
-# Automated-Essay-Scoring---AI-Project
+# Automated-Essay-Scoring-AI-Project
