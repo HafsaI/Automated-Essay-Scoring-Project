@@ -13,3 +13,4 @@ Our solution extracts the features and finds the relationship between features a
 3- https://github.com/NishantSushmakar/Automated-Essay-Grading  
 4- http://www.kaggle.com/c/asap-aes  
 5- Cohen’s Kappa Statistic: Definition & Example: https://www.statology.org/cohens-kappa-statistic/  
+6- https://medium.com/analytics-vidhya/automated-essay-scoring-kaggle-competition-end-to-end-project-implementation-part-1-b75a043903c4: https://medium.com/analytics-vidhya/automated-essay-scoring-kaggle-competition-end-to-end-project-implementation-part-1-b75a043903c4
