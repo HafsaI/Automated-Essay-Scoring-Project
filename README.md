@@ -1,6 +1,6 @@
 # Automated-Essay-Scoring-AI-Project
 ## Problem Statement
-1- Hand grading is time consuming
+1- Hand grading is time consuming \n
 2- A lot of effort goes behind grading each and every essay
 3- Hand grading may not be consistent everytime
 4- Grading manually has human errors
