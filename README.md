@@ -11,4 +11,5 @@ Our solution extracts the features and finds the relationship between features a
 1- Automated Essay Grading Using Machine Learning: http://cs229.stanford.edu/proj2012/MahanaJohnsApte-AutomatedEssayGradingUsingMachineLearning.pdf  
 2- Automated Essay Scoring Using Machine Learning (stanford.edu)  
 3- https://github.com/NishantSushmakar/Automated-Essay-Grading  
-4- http://www.kaggle.com/c/asap-aes
+4- http://www.kaggle.com/c/asap-aes  
+5- Cohen’s Kappa Statistic: Definition & Example: https://www.statology.org/cohens-kappa-statistic/
